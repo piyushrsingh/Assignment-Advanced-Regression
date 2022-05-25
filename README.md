@@ -23,8 +23,9 @@ Business Objective: You are required to model the price of houses with the avail
 
 
 ## Technologies Used
-Python 3
-jupyter
+- Python 3
+- Jupyter Notebook
+
 
 
 ## Conclusions
