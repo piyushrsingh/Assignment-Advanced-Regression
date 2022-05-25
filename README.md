@@ -22,10 +22,13 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 Business Objective: You are required to model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
 
-## Conclusions
-#### Suggestions for Surprise Housing is to keep a check on these predictors affecting the price of the house.
+## Technologies Used
+Python 3
+jupyter
 
-#### The higher values of positive coeeficients suggest a high sale value.
+
+## Conclusions
+Suggestions for Surprise Housing is to keep a check on these predictors affecting the price of the house.The higher values of positive coeeficients suggest a high sale value.
 
 #### Some of those features are:-
  |  Feature  |  Description  |
@@ -36,7 +39,7 @@ Business Objective: You are required to model the price of houses with the avail
  |  TotalBsmtSF  |  Total square feet of basement area  |
  |  GarageArea   |Size of garage in square feet  |
         
-#### The higher values of negative coeeficients suggest a decrease in sale value.
+The higher values of negative coeeficients suggest a decrease in sale value.
 
 #### Some of those features are:-
    |  Feature  |  Description  |
@@ -46,12 +49,6 @@ Business Objective: You are required to model the price of houses with the avail
     
 
 #### When the market value of the property is lower than the Predicted Sale Price, its the time to buy.
-
-
-
-## Technologies Used
-Python 3
-jupyter
 
 
 
